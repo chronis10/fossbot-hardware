@@ -6,33 +6,35 @@
 
 The newer version of the FOSSBot is available here, where you can find the 3D models and instructions to build it.
 
-This version of the robot is currently under development, so the instructions are not yet complete, and the final version of the 3D-printed parts may differ.
+The redesign of the robot is complete, and the files are available for download.
 
-![](images/fossbot_mark2.png)
+The circuit schematics, instructions, and firmware code will be available soon.
+
+![](images/full_bot.png)
 
 ## 3D Printable Part List
 ---
-* [Battery Cover](stl/battery_cover.stl)
+* [Battery Cover](stl/batterycover.stl)
 ![](images/battery_cover.png)
 ---
-* [Bottom Base](stl/bbase.stl)
-![](images/bbase.png)
+* [Bottom Base](stl/b1_p_f.stl)
+![](images/base1.png)
 ---
-* [Middle Base](stl/mbase.stl)
-![](images/mbase.png)
+* [Middle Base](stl/b2_p_f.stl)
+![](images/base2.png)
 ---
-* [Top Base](stl/tbase.stl)
-![](images/tbase.png)
+* [Top Base](stl/b3_p_f.stl)
+![](images/base3.png)
 ---
-* [Top Cover](stl/tcover.stl)
-![](images/tcover.png)
+* [Top Cover](stl/lego_top.stl)
+![](images/lego_top.png)
 ---
 * [Pen Holder](stl/pen_holder.stl)
-![](images/pen_holder.png)
+![](images/pen_tool.png)
 ---
-* [Spoiler Left](stl/spoiler_l.stl)
-* [Spoiler Right](stl/spoiler_r.stl)
-![](images/spoilers.png)
+* [Spoiler Left](stl/fender_left.stl)
+* [Spoiler Right](stl/fender_right.stl)
+![](images/fenders.png)
 ---
 
 
