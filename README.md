@@ -26,6 +26,10 @@ The circuit schematics, instructions, and firmware code will be available soon.
 * [Top Base](stl/b3_p_f.stl)
 ![](images/base3.png)
 ---
+* [Left eye](stl/left_eye.stl)
+* [Right eye](stl/right_eye.stl)
+![](images/eyes.png)
+---
 * [Top Cover](stl/lego_top.stl)
 ![](images/lego_top.png)
 ---
