@@ -37,10 +37,18 @@ The circuit schematics, instructions, and firmware code will be available soon.
 ![](images/fenders.png)
 ---
 
-
+## PCB
+---
+* [Main PCB production file](PCB/production/fossbot-v2-main-pcb.zip)
+![](images/f2_main.png)
+---
+* [Battery module production file](PCB/production/battery_module.zip)
+![](images/f2_power.png)
+---
 
 
 ## Hardware/Software Development Team
 * Christos Chronis
 * Dimitris Charitos
+* Adrien BRACQ - Barbatronic
 
